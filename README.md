@@ -12,6 +12,8 @@ This is a beginner-friendly Java-based console application that simulates basic 
 6.Manage multiple accounts using array structures.
 7.Use regular expressions to ensure email and phone formats are valid.
 8.Handle runtime errors effectively with informative error messages.
+
+
 💡 Java Concepts Demonstrated
 
 >>This project showcases the following Java programming concepts:
@@ -30,11 +32,15 @@ This is a beginner-friendly Java-based console application that simulates basic 
 2.Scanner class for input
 3.Arrays for storing multiple accounts
 4.Regular expressions for input validation
+
+
 🚀 How to Run
 
 1. Clone/download this repository.
 2. Open the folder in your IDE or terminal.
 3. Compile the program:
+
+
 🎯 Future Improvements
 
 >Support multiple accounts with account search.
