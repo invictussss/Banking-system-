@@ -16,7 +16,7 @@ This is a beginner-friendly Java-based console application that simulates basic 
 
 💡 Java Concepts Demonstrated
 
->>This project showcases the following Java programming concepts:
+This project showcases the following Java programming concepts:
 1.Primitive and reference data types
 2.Arithmetic and logical operations
 3.Control flow (if-else, switch-case, loops)
@@ -43,7 +43,7 @@ This is a beginner-friendly Java-based console application that simulates basic 
 
 🎯 Future Improvements
 
->Support multiple accounts with account search.
->Add login/authentication system.
->Save & load account details using file handling.
->Implement interest calculations.
+1.Support multiple accounts with account search.
+2.Add login/authentication system.
+3.Save & load account details using file handling.
+4.Implement interest calculations.
